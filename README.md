@@ -2,5 +2,5 @@
 
 - Diego Alejandro Martínez Cruz
 - Julián Alfonso Varón Parra
-- Víctor Alejandro Pérez Martin
+- Víctor Manuel Pérez Martin
 - Pedro Antonio Ramonetti Vega
